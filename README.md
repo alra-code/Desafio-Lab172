@@ -162,11 +162,11 @@ sudo cp projects.html /var/www/html/
 
 ### 🟠 Log do sistema: httpd instalado com sucesso
 <!-- Substitua pelo caminho da sua imagem -->
-![Log do sistema](./images/log-sistema.png)
+![Log do sistema](./imagens/log-sistema.png)
 
 ### 🟢 Página web funcionando no navegador
 <!-- Substitua pelo caminho da sua imagem -->
-![Página no navegador](./images/pagina-navegador.png)
+![Página no navegador](./imagens/pagina-navegador.png)
 
 ---
 
@@ -200,10 +200,10 @@ sudo cp projects.html /var/www/html/
 
 ### 👩‍💻 Autora
 
-**SEU NOME**
+**LUCIANA BATISTÀ**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianarbassis/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALRA-CODE)
 
 ⭐ Se este projeto foi útil, deixe uma estrela no repositório!
 
